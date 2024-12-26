@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Jiwan Seo"
+  avatar           : "images/jiwan.png"
+  bio              : "DGIST"
   location         : "Daegu, Korea"
   employer         :
   pubmed           : 

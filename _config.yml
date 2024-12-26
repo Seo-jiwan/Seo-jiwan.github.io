@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Lorem ipsum"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "Seo-jiwan/Seo-jiwan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Daegu, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zf8nj5MAAAAJ&hl=ko"
-  email            : "Lorem@ipsum.com"
+  email            : "eccaron@dgist.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -25,7 +25,7 @@ I'm Jiwan Seo, a M.S. student at DGIST(Daegu Gyeongbuk Institute of Science and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/CAVIS_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='../images/CAVIS_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAVIS: Context-Aware Video Instance Segmentation](https://arxiv.org/pdf/2407.03010)

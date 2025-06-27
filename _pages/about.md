@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm Jiwan Seo, a M.S. student at DGIST(Daegu Gyeongbuk Institute of Science and Technology, Daegu, Republic of Korea). My current research focuses on object-centric video analysis, especially in Video Instance Segmentation(VIS) and Referring Video Object Segmentation(RVOS).
-<a href="../docs/Jiwan_Seo_CV.pdf" target="_blank">My CV (PDF)</a>
+<a href="../Jiwan_Seo_CV.pdf" target="_blank">My CV (PDF)</a>
 
 
 # 🔥 News

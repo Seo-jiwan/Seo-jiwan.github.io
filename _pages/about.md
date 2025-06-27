@@ -45,10 +45,25 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 
 Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane Durante, Ehsan Adeli, Sang Hyun Park, Sunghoon Im
 
-[**Project**](https://seung-hun-lee.github.io/projects/CAVIS/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project page coming soon**]
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industry project</div><img src='../images/YOLOX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lightweight vision model for retail checkout automation]
+
+DGIST & Ki*** Electronics collaborated work
+
+
+</div>
+</div>
+
+# 📖 Academic Activities
++ Reviewer
+  - 2025, IEEE Robotics and Automation Letters(RA-L)
 
 
 # 📖 Educations

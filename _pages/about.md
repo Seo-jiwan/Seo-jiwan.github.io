@@ -50,7 +50,7 @@ Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industry project</div><img src='../images/YOLOX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industry project</div><img src='../images/free_retail_image.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Lightweight vision model for retail checkout automation]

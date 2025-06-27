@@ -37,7 +37,7 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/LOMM_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/LOMM_mainfigure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LOMM: Latest Object Memory Management for Temporally Consistent Video Instance Segmentation]

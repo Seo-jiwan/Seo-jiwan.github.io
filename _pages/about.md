@@ -47,10 +47,23 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 
 Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane Durante, Ehsan Adeli, Sang Hyun Park, Sunghoon Im
 
-[**Project page coming soon**]
+[**Project**](https://seung-hun-lee.github.io/projects/LOMM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='../images/SAMDWICH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation]
+
+Seunghun Lee*, <b>Jiwan Seo*</b>,Jeonghoon Kim* , Siwon Kim, Hyokyung Jeon,Haeun Yoon, Zane Durante, Sang Hyun Park, Sunghoon Im
+
+[**Project**](https://seung-hun-lee.github.io/projects/SAMDWICH/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industry project</div><img src='../images/free_retail_image.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

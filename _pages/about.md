@@ -45,7 +45,7 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 
 [LOMM: Latest Object Memory Management for Temporally Consistent Video Instance Segmentation]
 
-Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane Durante, Ehsan Adeli, Sang Hyun Park, Sunghoon Im \\ (DGIST X Stanford)
+Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane Durante, Ehsan Adeli, Sang Hyun Park, Sunghoon Im \ (DGIST X Stanford)
 
 [**Project**](https://seung-hun-lee.github.io/projects/LOMM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -57,7 +57,7 @@ Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane D
 
 [SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation]
 
-Seunghun Lee*, <b>Jiwan Seo*</b>,Jeonghoon Kim* , Siwon Kim, Hyokyung Jeon,Haeun Yoon, Zane Durante, Sang Hyun Park, Sunghoon Im \\(DGIST X Stanford)
+Seunghun Lee*, <b>Jiwan Seo*</b>,Jeonghoon Kim* , Siwon Kim, Hyokyung Jeon,Haeun Yoon, Zane Durante, Sang Hyun Park, Sunghoon Im \(DGIST X Stanford)
 
 [**Project**](https://seung-hun-lee.github.io/projects/SAMDWICH/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 

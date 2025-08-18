@@ -35,7 +35,7 @@ I'm Jiwan Seo, a M.S. student at DGIST(Daegu Gyeongbuk Institute of Science and 
 
 Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 
-[**Project**](https://seung-hun-lee.github.io/projects/CAVIS/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2407.03010) \| [**Project**](https://seung-hun-lee.github.io/projects/CAVIS/) \| [**Code**](https://github.com/Seung-Hun-Lee/CAVIS) \| [![](https://img.shields.io/github/stars/Seung-Hun-Lee/CAVIS?style=social&label=CAVIS%20Stars)](https://github.com/Seung-Hun-Lee/CAVIS)
 
 </div>
 </div>
@@ -47,7 +47,7 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 
 Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane Durante, Ehsan Adeli, Sang Hyun Park, Sunghoon Im \ (DGIST X Stanford)
 
-[**Project**](https://seung-hun-lee.github.io/projects/LOMM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2507.19754) \| [**Project**](https://seung-hun-lee.github.io/projects/LOMM/) \| [**Code**](https://github.com/Seung-Hun-Lee/LOMM)
 
 </div>
 </div>
@@ -59,7 +59,7 @@ Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane D
 
 Seunghun Lee*, <b>Jiwan Seo*</b>,Jeonghoon Kim* , Siwon Kim, Hyokyung Jeon,Haeun Yoon, Zane Durante, Sang Hyun Park, Sunghoon Im \(DGIST X Stanford)
 
-[**Project**](https://seung-hun-lee.github.io/projects/SAMDWICH/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2507.19754) \| [**Project**](https://seung-hun-lee.github.io/projects/SAMDWICH/) \| [**Code**](https://github.com/Seung-Hun-Lee/SAMDWICH)
 
 </div>
 </div>

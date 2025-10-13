@@ -12,7 +12,7 @@
       transform: rotate(180deg);
       display: flex;
       align-items: center;
-      font-size: clamp(1rem, 3vw, 1.2em);
+      font-size: 1.5em;
       font-weight: bold;
       margin-right: 10px;
     }
@@ -26,80 +26,163 @@
     }
 
     .video-wrapper {
-      width: 100%;
-      max-width: 400px;
-      height: auto;
-      aspect-ratio: 16 / 9;
+      width: 280px;
+      height: 200px;
       margin: 10px;
       overflow: hidden;
     }
 
-    .video-wrapper videoල
-
     .video-wrapper video {
       width: 100%;
-      height: auto;
+      height: 100%;
       object-fit: cover;
     }
 
     #v_6 {
       width: 100%;
-      max-width: 100%;
-      height: auto;
-      aspect-ratio: 16 / 9;
+      height: 550px;
       object-fit: cover;
     }
 
-    @media screen and (max-width: 1200px) {
-      #v_6 {
-        height: auto;
-        aspect-ratio: 16 / 9;
-        object-fit: contain;
-        max-width: 100%;
-      }
-    }
-
     .custom-title {
-      font-size: clamp(1.5rem, 5vw, 2rem);
+      font-size: 2.5rem;
     }
 
     .title.is-2 {
-      font-size: clamp(1.5rem, 5vw, 2rem);
+      font-size: 2.5rem;
     }
 
     .title.is-3 {
-      font-size: clamp(1.2rem, 4vw, 1.5rem);
+      font-size: 1.75rem;
     }
 
     .content p {
-      font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+      font-size: clamp(1rem, 2.5vw, 1.3rem);
     }
 
     .interpolation-image {
       width: 100%;
-      max-width: 100%;
       height: auto;
       object-fit: contain;
     }
 
     .publication-authors {
-      font-size: clamp(0.9rem, 2.5vw, 1rem);
+      font-size: 1.25rem;
     }
 
     .container.is-max-desktop {
-      max-width: 100%;
+      max-width: 960px;
       padding: 0 15px;
     }
 
+    /* 모바일 화면(768px 이하) 스타일 */
     @media screen and (max-width: 768px) {
+      .rotated-text {
+        font-size: clamp(1rem, 3vw, 1.2em);
+      }
+
+      .video-wrapper {
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+        aspect-ratio: 16 / 9;
+      }
+
+      .video-wrapper video {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+      }
+
+      #v_6 {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9;
+        object-fit: contain;
+      }
+
+      .custom-title {
+        font-size: clamp(1.5rem, 5vw, 2rem);
+      }
+
+      .title.is-2 {
+        font-size: clamp(1.5rem, 5vw, 2rem);
+      }
+
+      .title.is-3 {
+        font-size: clamp(1.2rem, 4vw, 1.5rem);
+      }
+
+      .content p {
+        font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+      }
+
+      .publication-authors {
+        font-size: clamp(0.9rem, 2.5vw, 1rem);
+      }
+
       .container.is-max-desktop {
+        max-width: 100%;
         padding: 0 10px;
       }
+
       .column.is-nine-tenths {
         width: 100%;
       }
+
       .column.is-four-fifths {
         width: 100%;
+      }
+
+      .interpolation-image {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+      }
+    }
+
+    /* 노트북 화면(1024px 이상)에서 원래 스타일 유지 */
+    @media screen and (min-width: 1024px) {
+      .container.is-max-desktop {
+        max-width: 960px;
+      }
+
+      .video-wrapper {
+        width: 280px;
+        height: 200px;
+      }
+
+      #v_6 {
+        height: 550px;
+        object-fit: cover;
+      }
+
+      .custom-title {
+        font-size: 2.5rem;
+      }
+
+      .title.is-2 {
+        font-size: 2.5rem;
+      }
+
+      .title.is-3 {
+        font-size: 1.75rem;
+      }
+
+      .content p {
+        font-size: clamp(1rem, 2.5vw, 1.3rem);
+      }
+
+      .publication-authors {
+        font-size: 1.25rem;
+      }
+
+      .interpolation-image {
+        width: 100%;
+        height: auto;
+        object-fit: contain;
       }
     }
   </style>

@@ -42,6 +42,7 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/LOMM_mainfigure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +51,7 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Kiljoon Han, Minwoo Choi, Sunghoon Im
 Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane Durante, Ehsan Adeli, Sang Hyun Park, Sunghoon Im (DGIST X Stanford)
 
 [**Paper**](https://arxiv.org/abs/2507.19754) \| [**Project**](https://seung-hun-lee.github.io/projects/LOMM/) \| [**Code**](https://github.com/Seung-Hun-Lee/LOMM)
-
+</div>
 </div>
 
 
@@ -62,11 +63,6 @@ Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane D
 Sungho Moon*, Seunghun Lee*, <b>Jiwan Seo</b>, Sunghoon Im 
 
 </div>
-
-
-
-
-
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='../images/SAMDWICH.png' alt="sym" width="100%"></div></div>

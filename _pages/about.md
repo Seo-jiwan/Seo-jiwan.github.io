@@ -26,7 +26,10 @@ Currently, I am researching 4D Gaussian Splatting (4DGS).
 # 🔥 News
 - *2026.03*: Joined KETI.
 - *2026.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2026
- 
+
+# 📖 Educations
+- *2024.03 - 2026.02*, M.S. course, Artificial Intelligence, DGIST
+- *2018.03 - 2024.02*, Undergraduate, Computer Engineering, Yeungnam University
 
 # 📝 Publications 
 
@@ -94,6 +97,4 @@ DGIST & Ki*** Electronics collaborated work
   - 2025, IEEE Robotics and Automation Letters(RA-L)
 
 
-# 📖 Educations
-- *2024.03 - 2026.02*, M.S. course, Artificial Intelligence, DGIST
-- *2018.03 - 2024.02*, Undergraduate, Computer Engineering, Yeungnam University
+

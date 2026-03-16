@@ -24,7 +24,7 @@ Currently, I am researching 4D Gaussian Splatting (4DGS).
 
 
 # 🔥 News
-- *2026.03*: Joined KETI.
+- *2026.03*: Joined KETI, Hologram Research Center.
 - *2026.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2026
 
 # 📖 Educations

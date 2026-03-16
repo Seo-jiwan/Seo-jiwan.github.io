@@ -54,6 +54,14 @@ Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane D
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/CVA_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CVA: Context-aware Video-text Alignment for Video Temporal Grounding]
+
+Sungho Moon*, Seunghun Lee*, <b>Jiwan Seo</b>, Sunghoon Im 
+
+</div>
 
 
 

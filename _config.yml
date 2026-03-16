@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiwan Seo "
-description              : "M.S. student, researching on video understanding "
+description              : "Researcher, researching on Video Understanding "
 repository               : "Seo-jiwan/Seo-jiwan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiwan Seo"
   avatar           : "images/IMG_9025.JPG"
-  bio              : "DGIST"
-  location         : "Daegu, Korea"
+  bio              : "KETI"
+  location         : "Seoul, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zf8nj5MAAAAJ&hl=ko"
-  email            : "eccaron@dgist.ac.kr"
+  email            : "eccaron@keti.re.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

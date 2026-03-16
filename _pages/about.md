@@ -95,5 +95,5 @@ DGIST & Ki*** Electronics collaborated work
 
 
 # 📖 Educations
-- *2024.02 - present*, M.S. course, Artificial Intelligence, DGIST
-<!--- *2018.03 - 2024.02*, Undergraduate, Computer Engineering, Yeungnam University --!>
+- *2024.03 - 2026.02*, M.S. course, Artificial Intelligence, DGIST
+- *2018.03 - 2024.02*, Undergraduate, Computer Engineering, Yeungnam University

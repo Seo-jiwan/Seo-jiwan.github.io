@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Jiwan Seo, a M.S. student at DGIST(Daegu Gyeongbuk Institute of Science and Technology, Daegu, Republic of Korea). My current research focuses on object-centric video analysis, especially in Video Instance Segmentation(VIS) and Referring Video Object Segmentation(RVOS).
+I'm Jiwan Seo, an AI researcher at KETI (Korea Electronics Technology Institute, Seoul, Republic of Korea). 
+My research focuses on object-centric video analysis, particularly Video Instance Segmentation (VIS) and Referring Video Object Segmentation (RVOS). 
+Currently, I am researching 4D Gaussian Splatting (4DGS).
 <a href="../Jiwan_Seo_CV.pdf" target="_blank">My CV (PDF)</a>
 
 
 # 🔥 News
-- Currently: &nbsp;Seeking internship or full-time positions.
-- *2025.06*: &nbsp;🎉🎉 2 papers accepted to ICCV 2025
+- *2026.03*: Joined KETI.
+- *2026.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2026
  
 
 # 📝 Publications 
@@ -50,6 +52,21 @@ Seunghun Lee*, <b>Jiwan Seo</b>, Minwoo Choi, Kiljoon Han, Jaehoon Jeong, Zane D
 [**Paper**](https://arxiv.org/abs/2507.19754) \| [**Project**](https://seung-hun-lee.github.io/projects/LOMM/) \| [**Code**](https://github.com/Seung-Hun-Lee/LOMM)
 
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/CVA_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CVA: Context-aware Video-text Alignment for Video Temporal Grounding]
+
+Sungho Moon*, Seunghun Lee*, <b>Jiwan Seo</b>, Sunghoon Im 
+
+</div>
+
+
+
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='../images/SAMDWICH.png' alt="sym" width="100%"></div></div>

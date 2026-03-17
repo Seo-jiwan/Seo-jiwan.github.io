@@ -81,6 +81,8 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Jeonghoon Kim* , Siwon Kim, Hyokyung Jeon,Haeu
 </div>
 
 
+# 🖥️ Industrial Projects
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Industry project</div><img src='../images/free_retail_image.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

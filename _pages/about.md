@@ -28,7 +28,7 @@ Currently, I am researching 4D Gaussian Splatting (4DGS).
 - *2026.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2026
 
 # 📖 Educations
-- *2024.03 - 2026.02*, M.S. course, Artificial Intelligence, [DGIST](https://cvlab.dgist.ac.kr/)
+- *2024.03 - 2026.02*, M.S. course, Artificial Intelligence, [DGIST CVLAB](https://cvlab.dgist.ac.kr/)
 - *2018.03 - 2024.02*, Undergraduate, Computer Engineering, Yeungnam University
 
 # 📝 Publications 

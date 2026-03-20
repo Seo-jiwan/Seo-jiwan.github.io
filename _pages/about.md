@@ -68,7 +68,7 @@ Sungho Moon*, Seunghun Lee*, <b>Jiwan Seo</b>, Sunghoon Im
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='../images/SAMDWICH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='../images/motivation.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Temporal Grounding as a Learning Signal for Referring Video Object Segmentation]

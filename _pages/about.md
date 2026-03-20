@@ -96,7 +96,10 @@ DGIST & Ki*** Electronics collaborated work (Keywords: Object Detection, Edge De
 
 # 📖 Academic Activities
 + Reviewer
-  - 2025, IEEE Robotics and Automation Letters(RA-L)
+  - Reviewer, IEEE Robotics and Automation Letters(RA-L), 2025
++ Workshop
+  - Presenter, Human-inspired Computer Vision Workshop, 2025
+  - Presenter, Memory and Vision Workshop, 2025
 
 
 

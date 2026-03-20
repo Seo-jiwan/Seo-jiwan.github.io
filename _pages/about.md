@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Jiwan Seo, an AI researcher at KETI (Korea Electronics Technology Institute, Seoul, Republic of Korea). 
+I'm Jiwan Seo, an AI researcher at KETI. 
 My research focuses on object-centric video analysis, particularly Video Instance Segmentation (VIS) and Referring Video Object Segmentation (RVOS). 
 Currently, I am researching 4D Gaussian Splatting (4DGS).
 <a href="../Jiwan_Seo_CV.pdf" target="_blank">My CV (PDF)</a>

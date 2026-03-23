@@ -88,7 +88,9 @@ Seunghun Lee*, <b>Jiwan Seo*</b>, Jeonghoon Kim* , Siwon Kim, Hyokyung Jeon,Haeu
 
 [Lightweight vision model for retail checkout automation]
 
-DGIST & Ki*** Electronics collaborated work (Keywords: Object Detection, Edge Device)
+DGIST & Ki*** Electronics collaborated work 
+
+(Keywords: Object Detection, Edge Device)
 
 
 </div>

@@ -28,10 +28,6 @@ Currently, I am researching 3D Object Reconstruction and 4D Gaussian Splatting (
 - *2026.03*: Joined Hologram Research Center, KETI.
 - *2026.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2026
 
-# 📖 Educations
-- *2024.03 - 2026.02*, M.S. course, Artificial Intelligence, [DGIST CVLAB](https://cvlab.dgist.ac.kr/)
-- *2018.03 - 2024.02*, Undergraduate, Computer Engineering, Yeungnam University
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/CAVIS_2024.png' alt="sym" width="100%"></div></div>
@@ -96,6 +92,10 @@ DGIST & Ki*** Electronics collaborated work
 
 </div>
 </div>
+
+# 📖 Educations
+- *2024.03 - 2026.02*, M.S. course, Artificial Intelligence, [DGIST CVLAB](https://cvlab.dgist.ac.kr/)
+- *2018.03 - 2024.02*, Undergraduate, Computer Engineering, Yeungnam University
 
 # 📖 Academic Activities
 + Reviewer

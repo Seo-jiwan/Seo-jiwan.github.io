@@ -73,7 +73,7 @@ Sungho Moon*, Seunghun Lee*, <b>Jiwan Seo</b>, Sunghoon Im
 
 [Temporal Grounding as a Learning Signal for Referring Video Object Segmentation]
 
-Seunghun Lee*, <b>Jiwan Seo*</b>, Jeonghoon Kim* , Siwon Kim, Hyokyung Jeon,Haeun Yoon, Zane Durante, Sang Hyun Park, Sunghoon Im (DGIST X Stanford)
+Seunghun Lee*, <b>Jiwan Seo*</b>, Jeonghoon Kim*, Siwon Kim, Hyokyung Jeon, Haeun Yoon, Zane Durante, Sang Hyun Park, Sunghoon Im (DGIST X Stanford)
 
 [**Paper**](https://arxiv.org/abs/2507.19754) \| [**Project**](https://seung-hun-lee.github.io/projects/SAMDWICH/) \| [**Code**](https://github.com/Seung-Hun-Lee/SAMDWICH)
 

@@ -104,5 +104,6 @@ DGIST & Ki*** Electronics collaborated work
   - Presenter, Human-inspired Computer Vision Workshop, 2025
   - Presenter, Memory and Vision Workshop, 2025
 
-
+# 📖 Language Skills
+  - (English) TOEIC 915 
 

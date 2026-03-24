@@ -99,10 +99,10 @@ DGIST & Ki*** Electronics collaborated work
 
 # 📖 Academic Activities
 + Reviewer
-  - 2025, Reviewer, IEEE Robotics and Automation Letters(RA-L)
+  - Reviewer, IEEE Robotics and Automation Letters(RA-L), 2025
 + Workshop
-  - 2025, Presenter, Human-inspired Computer Vision Workshop
-  - 2025, Presenter, Memory and Vision Workshop
+  - Presenter, Human-inspired Computer Vision Workshop, 2025
+  - Presenter, Memory and Vision Workshop, 2025
 
 # 📖 Language Skills
 + English

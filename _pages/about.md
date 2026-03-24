@@ -105,5 +105,6 @@ DGIST & Ki*** Electronics collaborated work
   - Presenter, Memory and Vision Workshop, 2025
 
 # 📖 Language Skills
-  - (English) TOEIC 915 
++ English
+  - TOEIC 915
 

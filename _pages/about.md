@@ -106,5 +106,5 @@ DGIST & Ki*** Electronics collaborated work
 
 # 📖 Language Skills
 + English
-  - TOEIC 910 (26.03)
+  - *2026 03*, TOEIC 910
 

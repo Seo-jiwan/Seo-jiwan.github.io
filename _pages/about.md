@@ -108,3 +108,4 @@ DGIST & Ki*** Electronics collaborated work
 + English
   - *2026.03*, TOEIC 910
 
+<a href="./wandoo-recruit.html" target="_blank"><b>Wandoo 합격 메일 보기</b></a>
